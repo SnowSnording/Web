@@ -1,0 +1,33 @@
+body{
+  background-color: #000000;
+  color: #FFFFFF;
+  font-family: "Roboto", sans-serif;
+}
+.titulo{
+  font-size: 50px;
+}
+.q1{
+  font-size: 25px;
+  font-weight: bold;
+}
+.q2{
+  font-size: 15px;
+}
+.des{
+  font-size: 25px;
+  font-weight: bold;
+}
+.des2{
+  font-size: 15px;
+}
+.button1{
+    background-color: #FFFFFF;
+    color: #000000;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 100px;
+  }

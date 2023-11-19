@@ -1,0 +1,48 @@
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: "Roboto", sans-serif;
+  }
+  .button1{
+    background-color: #FFFFFF;
+    color: #000000;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 100px;
+  }
+  .button2{
+    background-color: #FFFFFF;
+    color: #000000;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 100px;
+    margin-top: 10px;
+  }
+  .invite{
+    background-color: #FFFFFF;
+    color: #000000;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 100px;
+    margin-bottom: 10px;
+  }
+  .titulo{
+    font-size: 50;
+    font-weight: bold;
+  }
+.copyr{
+  font-size: 15px;
+  margin-top: 10px;
+}
